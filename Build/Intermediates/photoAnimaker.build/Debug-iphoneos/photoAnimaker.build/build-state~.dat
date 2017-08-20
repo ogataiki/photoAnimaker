@@ -1,0 +1,1368 @@
+TphotoAnimaker
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Info.plist /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist
+cProcessPCH++ /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker normal armv7s
+cGenerateDSYMFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x.png photoAnimaker/Default-Portrait@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72@2x.png photoAnimaker/Icon-72@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait~ipad.png photoAnimaker/Default-Portrait~ipad.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76@2x.png photoAnimaker/Icon-76@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-40.png photoAnimaker/Icon-Small-40.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small@2x.png photoAnimaker/Icon-Small@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon.png photoAnimaker/Icon.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x~ipad.png photoAnimaker/Default-Landscape@2x~ipad.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape.png photoAnimaker/Default-Landscape.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_920.png start_for_iphone_640_920.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76.png photoAnimaker/Icon-76.png
+cCopyStringsFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/en.lproj/InfoPlist.strings photoAnimaker/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape~ipad.png photoAnimaker/Default-Landscape~ipad.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1096.png start_for_iphone_640_1096.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default@2x.png photoAnimaker/Default@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1136.png start_for_iphone_640_1136.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2048.png start_for_ipad_1536_2048.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-small-40@2x.png photoAnimaker/Icon-small-40@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1536.png start_for_ipad_2048_1536.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-568h@2x.png photoAnimaker/Default-568h@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-60@2x.png photoAnimaker/Icon-60@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small.png photoAnimaker/Icon-Small.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1496.png start_for_ipad_2048_1496.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50@2x.png photoAnimaker/Icon-Small-50@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x~ipad.png photoAnimaker/Default-Portrait@2x~ipad.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon@2x.png photoAnimaker/Icon@2x.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_960.png start_for_iphone_640_960.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default.png photoAnimaker/Default.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50.png photoAnimaker/Icon-Small-50.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72.png photoAnimaker/Icon-72.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2008.png start_for_ipad_1536_2008.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait.png photoAnimaker/Default-Portrait.png
+cCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x.png photoAnimaker/Default-Landscape@2x.png
+cProcessProductPackaging /Users/taiki_o/Library/MobileDevice/Provisioning\ Profiles/60ECF80D-ACB7-42C8-96C0-7340B4BB040E.mobileprovision /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision
+cTouch /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent
+cCodeSign /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c000000005288468A0000000000000094
+t1384662666
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c000000005288468A0000000000000096
+t1384662666
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005288468A000000000000036B
+t1384662666
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005288468C00000000000001A0
+t1384662668
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005288469000000000006279A0
+t1384662672
+s6453664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005288469200000000004D63C0
+t1384662674
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000528846970000000000A92BC0
+t1384662679
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000528846A700000000025A5AC0
+t1384662695
+s39475904
+
+N/Users/taiki_o/Library/MobileDevice/Provisioning Profiles/60ECF80D-ACB7-42C8-96C0-7340B4BB040E.mobileprovision
+c000000005288BE980000000000001DAB
+t1384693400
+s7595
+
+N/Users/taiki_o/pgr/ios/opencv2.framework/opencv2
+c0000000050B9C5C40000000002192124
+t1354352068
+s35201316
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.pch
+t1388842498
+s5275428
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.pch
+t1388842498
+s6218792
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.o
+t1388842507
+s20028
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.o
+t1388842501
+s71868
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.o
+t1388842504
+s21612
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.o
+t1388842507
+s11788
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.o
+t1388842501
+s46472
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.o
+t1388842504
+s125256
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.o
+t1388842501
+s52564
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.o
+t1388842501
+s3276
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/photoAnimaker.LinkFileList
+c0000000052C80DFF00000000000004B5
+t1388842495
+s1205
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent
+t1388842519
+s444
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app
+t1388842519
+s1360
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM
+t2
+s0
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-568h@2x.png
+t1388842515
+s846050
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape.png
+t1388842511
+s631227
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x.png
+t1388842519
+s1959370
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x~ipad.png
+t1388842511
+s1958986
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape~ipad.png
+t1388842512
+s631459
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait.png
+t1388842517
+s725953
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x.png
+t1388842510
+s2239078
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x~ipad.png
+t1388842517
+s2239690
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait~ipad.png
+t1388842509
+s726819
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default.png
+t1388842516
+s197308
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default@2x.png
+t1388842513
+s660606
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-60@2x.png
+t1388842514
+s47822
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72.png
+t1388842517
+s17737
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72@2x.png
+t1388842508
+s68204
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76.png
+t1388842511
+s19788
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76@2x.png
+t1388842509
+s75904
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-40.png
+t1388842509
+s5665
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50.png
+t1388842517
+s8667
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50@2x.png
+t1388842515
+s33447
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small.png
+t1388842514
+s2967
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small@2x.png
+t1388842509
+s11029
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-small-40@2x.png
+t1388842513
+s21606
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon.png
+t1388842509
+s10807
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon@2x.png
+t1388842516
+s41317
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Info.plist
+t1388842495
+s2397
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/PkgInfo
+t1388842495
+s8
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist
+t1388842495
+s150
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision
+t1388842519
+s7595
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/en.lproj/InfoPlist.strings
+t1388842511
+s42
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker
+t1388842508
+s1341172
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2008.png
+t1388842518
+s1231202
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2048.png
+t1388842514
+s1232933
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1496.png
+t1388842516
+s1231155
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1536.png
+t1388842514
+s1229931
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1096.png
+t1388842512
+s287219
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1136.png
+t1388842512
+s288493
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_920.png
+t1388842511
+s283061
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_960.png
+t1388842516
+s281950
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm
+c00000000513C528600000000000012AB
+t1362907782
+s4779
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm
+c0000000052C4ED8A00000000000008DE
+t1388637578
+s2270
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-568h@2x.png
+c0000000052C7B86200000000000762B1
+t1388820578
+s484017
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape.png
+c0000000052C7B1140000000000099E2C
+t1388818708
+s630316
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape@2x.png
+c0000000052C7AF4600000000001DDFBD
+t1388818246
+s1957821
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape@2x~ipad.png
+c0000000052C7B21200000000001DE12C
+t1388818962
+s1958188
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape~ipad.png
+c0000000052C7B19E0000000000099F1C
+t1388818846
+s630556
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait.png
+c0000000052C7A7B40000000000069CBB
+t1388816308
+s433339
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait@2x.png
+c0000000052C7A9520000000000106640
+t1388816722
+s1074752
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait@2x~ipad.png
+c0000000052C7A8EA0000000000106815
+t1388816618
+s1075221
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait~ipad.png
+c0000000052C7A7320000000000069D5C
+t1388816178
+s433500
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default.png
+c0000000052C7B696000000000002572F
+t1388820118
+s153391
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default@2x.png
+c0000000052C7B65A0000000000060E4A
+t1388820058
+s396874
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm
+c00000000510E101400000000000012DD
+t1359876116
+s4829
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-60@2x.png
+c0000000052C28FE20000000000009A7A
+t1388482530
+s39546
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-72.png
+c0000000052C2D1BD0000000000003EC0
+t1388499389
+s16064
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-72@2x.png
+c0000000052C2D176000000000000E11B
+t1388499318
+s57627
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-76.png
+c0000000052C2D258000000000000487D
+t1388499544
+s18557
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-76@2x.png
+c0000000052C2D237000000000000F0E8
+t1388499511
+s61672
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-40.png
+c0000000052C2D2BA0000000000001579
+t1388499642
+s5497
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-50.png
+c0000000052C2D31D000000000000204B
+t1388499741
+s8267
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-50@2x.png
+c0000000052C2D301000000000000718C
+t1388499713
+s29068
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small.png
+c00000000511276A80000000000000B68
+t1360164520
+s2920
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small@2x.png
+c000000005112768600000000000028D1
+t1360164486
+s10449
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-small-40@2x.png
+c0000000052C2900A0000000000004C87
+t1388482570
+s19591
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon.png
+c00000000511276970000000000002695
+t1360164503
+s9877
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon@2x.png
+c000000005112767700000000000086F6
+t1360164471
+s34550
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm
+c00000000510D234A00000000000004E2
+t1359815498
+s1250
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm
+c0000000050BA31BF00000000000003FC
+t1354379711
+s1020
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm
+c0000000052C80DCF0000000000004C0F
+t1388842447
+s19471
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m
+c00000000510E76DC00000000000008A7
+t1359902428
+s2215
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/en.lproj/InfoPlist.strings
+c00000000510D207F000000000000002D
+t1359814783
+s45
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm
+c000000005131EDE900000000000000CF
+t1362226665
+s207
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Info.plist
+c0000000052C808D9000000000000146F
+t1388841177
+s5231
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Prefix.pch
+c00000000510D207F0000000000000149
+t1359814783
+s329
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_1536_2008.png
+c0000000052C7D33200000000000B2FF6
+t1388827442
+s733174
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_1536_2048.png
+c0000000052C7D28A00000000000B135C
+t1388827274
+s725852
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_2048_1496.png
+c0000000052C7D67A00000000000AF672
+t1388828282
+s718450
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_2048_1536.png
+c0000000052C7D5E200000000000AEC64
+t1388828130
+s715876
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_1096.png
+c0000000052C7F4C60000000000033715
+t1388836038
+s210709
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_1136.png
+c0000000052C7F3CC0000000000031F5A
+t1388835788
+s204634
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_920.png
+c0000000052C7F70A0000000000031F73
+t1388836618
+s204659
+
+N/Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_960.png
+c0000000052C7F64E0000000000030871
+t1388836430
+s198769
+
+CBuild AST from /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm
+r0
+
+CBuild AST from /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm
+r0
+
+CBuild AST from /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm
+r0
+
+CBuild AST from /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm
+r0
+
+CBuild AST from /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm
+r0
+
+CBuild AST from /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm
+r0
+
+CBuild AST from /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m
+r0
+
+CBuild AST from /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8b6cbb7f4578b841^0402ed7f4578b841^---0#1#1#--18"Check dependencies36"D80D4873-7A9B-4546-B9E6-6D0A903DA647-
+
+CCodeSign /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app
+s410535319.287837
+e410535323.739692
+r1
+xCodeSign
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CodeSign Build/Products/Debug-iphoneos/photoAnimaker.app56"CodeSign Build/Products/Debug-iphoneos/photoAnimaker.app72dc49974578b841^5e2bbd9b4578b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/0000000000000000^1010"CodeSign Build/Products/Debug-iphoneos/photoAnimaker.app    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: TAIKI OGASAWARA (2YFP535SKN)" and provisioning profile "test" (60ECF80D-ACB7-42C8-96C0-7340B4BB040E)    codesign --force --sign 016F4499C1CB3CF8F1F1423AA3039CD77B075505 --resource-rules=/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist --entitlements /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app36"B4E9E1F4-5B6D-49F1-8DBE-9813E785B393-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410535304.913987
+e410535307.901097
+r1
+xCompileC
+xBuild/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.o
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm
+xnormal
+xarmv7s
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/opencv.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/version.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/operations.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/mat.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/miniflann.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/defines.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/config.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/video.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/tracking.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/background_segm.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/features2d/features2d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/objdetect/objdetect.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/calib3d/calib3d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/ml/ml.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/contrib.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/retina.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/openfabmap.hpp
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm220"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.o photoAnimaker/AnimeFilter.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compilere82dea884578b841^f3aee68b4578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm0000000000000000^3697"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.o photoAnimaker/AnimeFilter.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -include /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.d --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.dia -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.mm -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.o36"0F6140E7-9DED-47A1-BF5F-B3D4F1D8A3D6-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410535298.150285
+e410535301.219437
+r1
+xCompileC
+xBuild/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm
+xnormal
+xarmv7s
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/MyMacros.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/TouchesDelegate.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/opencv.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/version.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/operations.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/mat.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/miniflann.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/defines.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/config.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/video.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/tracking.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/background_segm.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/features2d/features2d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/objdetect/objdetect.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/calib3d/calib3d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/ml/ml.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/contrib.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/retina.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/openfabmap.hpp
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm220"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.o photoAnimaker/AppDelegate.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler20b426824578b841^abec37854578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm0000000000000000^3697"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.o photoAnimaker/AppDelegate.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -include /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.mm -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.o36"42AA5F0C-5999-4A1E-AC01-00AD8ABF1DE3-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410535301.448797
+e410535304.399118
+r1
+xCompileC
+xBuild/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.o
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm
+xnormal
+xarmv7s
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/opencv.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/version.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/operations.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/mat.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/miniflann.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/defines.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/config.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/video.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/tracking.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/background_segm.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/features2d/features2d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/objdetect/objdetect.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/calib3d/calib3d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/ml/ml.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/contrib.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/retina.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm218"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.o photoAnimaker/FilterBase.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler7f1673854578b841^dc2c66884578b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm0000000000000000^3691"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.o photoAnimaker/FilterBase.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -include /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.d --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.dia -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.mm -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.o36"D5B70369-B055-460B-BF36-72B00A246799-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410535304.400787
+e410535307.577167
+r1
+xCompileC
+xBuild/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.o
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm
+xnormal
+xarmv7s
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/opencv.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/version.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/operations.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/mat.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/miniflann.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/defines.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/config.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/video.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/tracking.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/background_segm.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/features2d/features2d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/objdetect/objdetect.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/calib3d/calib3d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/ml/ml.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/contrib.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/retina.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/openfabmap.hpp
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm218"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.o photoAnimaker/LineFilter.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler21cb66884578b841^bec1938b4578b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm0000000000000000^3691"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.o photoAnimaker/LineFilter.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -include /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.d --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.dia -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.mm -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.o36"0BA459DE-E9E3-4C0D-86A5-3285203B0A43-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410535301.217962
+e410535301.332333
+r1
+xCompileC
+xBuild/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.o
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm
+xnormal
+xarmv7s
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/TouchesDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm214"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.o photoAnimaker/RootView.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler3c8538854578b841^1a1455854578b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm0000000000000000^3679"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.o photoAnimaker/RootView.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -include /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.d --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.dia -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.mm -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.o36"9864A321-E0A4-4620-B9AC-918438E4DE6F-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410535301.221239
+e410535304.912490
+r1
+xCompileC
+xBuild/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.o
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm
+xnormal
+xarmv7s
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/MyMacros.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/TouchesDelegate.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/opencv.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/version.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/operations.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/mat.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/miniflann.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/defines.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/config.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/video.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/tracking.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/background_segm.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/features2d/features2d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/objdetect/objdetect.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/calib3d/calib3d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/ml/ml.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/contrib.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/retina.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/openfabmap.hpp
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm234"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.o photoAnimaker/RootViewController.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler57d038854578b841^2499e9884578b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm0000000000000000^3739"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.o photoAnimaker/RootViewController.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -include /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.d --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.dia -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.mm -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.o36"8021FD21-1206-4A94-BF6D-9B72F7349057-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410535301.333945
+e410535301.447525
+r1
+xCompileC
+xBuild/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.o
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m221"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.o photoAnimaker/ZoomImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilercdb055854578b841^219172854578b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m0000000000000000^3559"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.o photoAnimaker/ZoomImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -include /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.d --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.dia -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.m -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.o36"218CB8C7-C286-421E-8233-4EEDF272B0C3-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.o /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410535298.148549
+e410535301.217350
+r1
+xCompileC
+xBuild/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.o
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm
+xnormal
+xarmv7s
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AppDelegate.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/MyMacros.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootViewController.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/TouchesDelegate.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/RootView.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/FilterBase.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/opencv.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/core.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/version.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/operations.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/core/mat.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/miniflann.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/defines.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/flann/config.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/types_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/imgproc/imgproc.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/photo/photo_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/video.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/tracking.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/video/background_segm.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/features2d/features2d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/objdetect/objdetect.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/calib3d/calib3d.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/ml/ml.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui_c.h
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/highgui/highgui.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/contrib.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/retina.hpp
+d/Users/taiki_o/pgr/ios/opencv2.framework/Headers/contrib/openfabmap.hpp
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/LineFilter.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/AnimeFilter.h
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/ZoomImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm206"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.o photoAnimaker/main.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compilerff5e26824578b841^ed4938854578b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm0000000000000000^3655"CompileC Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.o photoAnimaker/main.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -include /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.dia -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/main.mm -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.o36"8374D59F-AB46-43D8-B2E0-45C87A4D09CC-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-568h@2x.png photoAnimaker/Default-568h@2x.png
+s410535314.520153
+e410535315.259037
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-568h@2x.png
+xphotoAnimaker/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-568h@2x.png photoAnimaker/Default-568h@2x.png113"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-568h@2x.png photoAnimaker/Default-568h@2x.png4e4685924578b841^a69942934578b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-568h@2x.png0000000000000000^642"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-568h@2x.png photoAnimaker/Default-568h@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-568h@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-568h@2x.png36"E45ABA4C-613F-41D5-BA3E-EAB85088260A-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape.png photoAnimaker/Default-Landscape.png
+s410535310.628896
+e410535311.402903
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape.png
+xphotoAnimaker/Default-Landscape.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape.png photoAnimaker/Default-Landscape.png117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape.png photoAnimaker/Default-Landscape.png8f1ca18e4578b841^7025678f4578b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape.png0000000000000000^650"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape.png photoAnimaker/Default-Landscape.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape.png36"4841AE4B-C255-4282-B9E0-C33E70204A66-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x.png photoAnimaker/Default-Landscape@2x.png
+s410535317.813788
+e410535319.267386
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x.png
+xphotoAnimaker/Default-Landscape@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x.png photoAnimaker/Default-Landscape@2x.png123"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x.png photoAnimaker/Default-Landscape@2x.png2e71d0954578b841^c07644974578b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape@2x.png0000000000000000^662"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x.png photoAnimaker/Default-Landscape@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x.png36"06E443B9-EF79-4009-A420-F2C4F22A5224-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x~ipad.png photoAnimaker/Default-Landscape@2x~ipad.png
+s410535309.677316
+e410535311.513176
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x~ipad.png
+xphotoAnimaker/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x~ipad.png photoAnimaker/Default-Landscape@2x~ipad.png133"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x~ipad.png photoAnimaker/Default-Landscape@2x~ipad.png7c81ad8d4578b841^ba65838f4578b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape@2x~ipad.png0000000000000000^682"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x~ipad.png photoAnimaker/Default-Landscape@2x~ipad.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape@2x~ipad.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape@2x~ipad.png36"EB1E9A3A-FCF5-4F3B-92CB-D307B1D5E332-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape~ipad.png photoAnimaker/Default-Landscape~ipad.png
+s410535311.579462
+e410535312.403543
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape~ipad.png
+xphotoAnimaker/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape~ipad.png photoAnimaker/Default-Landscape~ipad.png127"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape~ipad.png photoAnimaker/Default-Landscape~ipad.png67b9948f4578b841^404f67904578b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape~ipad.png0000000000000000^670"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape~ipad.png photoAnimaker/Default-Landscape~ipad.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Landscape~ipad.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Landscape~ipad.png36"1BFA597B-F827-4197-848B-F9C37B9A7197-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait.png photoAnimaker/Default-Portrait.png
+s410535317.136780
+e410535317.813340
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait.png
+xphotoAnimaker/Default-Portrait.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait.png photoAnimaker/Default-Portrait.png115"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait.png photoAnimaker/Default-Portrait.png2d2123954578b841^c07ad0954578b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait.png0000000000000000^646"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait.png photoAnimaker/Default-Portrait.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait.png36"DA20CF4B-1901-4613-84F2-840E03609C03-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x.png photoAnimaker/Default-Portrait@2x.png
+s410535308.484700
+e410535310.627819
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x.png
+xphotoAnimaker/Default-Portrait@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x.png photoAnimaker/Default-Portrait@2x.png121"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x.png photoAnimaker/Default-Portrait@2x.pnga0347c8c4578b841^45b9a08e4578b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait@2x.png0000000000000000^658"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x.png photoAnimaker/Default-Portrait@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x.png36"09F9B00D-8A87-4C4D-9582-3B65882138BB-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x~ipad.png photoAnimaker/Default-Portrait@2x~ipad.png
+s410535315.324667
+e410535317.136399
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x~ipad.png
+xphotoAnimaker/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x~ipad.png photoAnimaker/Default-Portrait@2x~ipad.png131"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x~ipad.png photoAnimaker/Default-Portrait@2x~ipad.png533f53934578b841^882f23954578b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait@2x~ipad.png0000000000000000^678"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x~ipad.png photoAnimaker/Default-Portrait@2x~ipad.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait@2x~ipad.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait@2x~ipad.png36"B8BDBD0A-77C5-4C79-B5C9-702853CE7B35-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait~ipad.png photoAnimaker/Default-Portrait~ipad.png
+s410535308.703224
+e410535309.413127
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait~ipad.png
+xphotoAnimaker/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait~ipad.png photoAnimaker/Default-Portrait~ipad.png125"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait~ipad.png photoAnimaker/Default-Portrait~ipad.pngff22b48c4578b841^8bc3698d4578b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait~ipad.png0000000000000000^666"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait~ipad.png photoAnimaker/Default-Portrait~ipad.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default-Portrait~ipad.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default-Portrait~ipad.png36"95A864A7-34B0-4962-8FF1-65F6C36653AF-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default.png photoAnimaker/Default.png
+s410535316.701087
+e410535316.975264
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default.png
+xphotoAnimaker/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default.png photoAnimaker/Default.png97"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default.png photoAnimaker/Default.png9a97b3944578b841^9fabf9944578b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default.png0000000000000000^610"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default.png photoAnimaker/Default.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default.png36"2AF399A9-D13E-4A32-BF43-636BD9EDFF38-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default@2x.png photoAnimaker/Default@2x.png
+s410535312.403881
+e410535313.112032
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default@2x.png
+xphotoAnimaker/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default@2x.png photoAnimaker/Default@2x.png103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default@2x.png photoAnimaker/Default@2x.png5e8267904578b841^17f21c914578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default@2x.png0000000000000000^622"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Default@2x.png photoAnimaker/Default@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Default@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Default@2x.png36"33410C16-523A-4D24-8016-F0AD3CCC1645-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-60@2x.png photoAnimaker/Icon-60@2x.png
+s410535314.638573
+e410535314.707119
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-60@2x.png
+xphotoAnimaker/Icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-60@2x.png photoAnimaker/Icon-60@2x.png103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-60@2x.png photoAnimaker/Icon-60@2x.png83c3a3924578b841^ab06b5924578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-60@2x.png0000000000000000^622"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-60@2x.png photoAnimaker/Icon-60@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-60@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-60@2x.png36"DFBDBE83-D55C-4764-872F-1DE8C996D211-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72.png photoAnimaker/Icon-72.png
+s410535317.033347
+e410535317.092485
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72.png
+xphotoAnimaker/Icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72.png photoAnimaker/Icon-72.png97"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72.png photoAnimaker/Icon-72.pnga4a708954578b841^e2ad17954578b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-72.png0000000000000000^610"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72.png photoAnimaker/Icon-72.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-72.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72.png36"6194BDA0-49A6-4767-80E2-5C86F3F0DD65-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72@2x.png photoAnimaker/Icon-72@2x.png
+s410535308.486541
+e410535308.702853
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72@2x.png
+xphotoAnimaker/Icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72@2x.png photoAnimaker/Icon-72@2x.png103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72@2x.png photoAnimaker/Icon-72@2x.png00aa7c8c4578b841^e82fb48c4578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-72@2x.png0000000000000000^622"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72@2x.png photoAnimaker/Icon-72@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-72@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-72@2x.png36"54577148-F001-482F-A361-D2B40A9D8B77-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76.png photoAnimaker/Icon-76.png
+s410535311.513626
+e410535311.574660
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76.png
+xphotoAnimaker/Icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76.png photoAnimaker/Icon-76.png97"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76.png photoAnimaker/Icon-76.pnge599838f4578b841^931d938f4578b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-76.png0000000000000000^610"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76.png photoAnimaker/Icon-76.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-76.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76.png36"7D6941F0-ECB7-43B8-B2C6-AAE82F45D291-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76@2x.png photoAnimaker/Icon-76@2x.png
+s410535309.413479
+e410535309.492158
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76@2x.png
+xphotoAnimaker/Icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76@2x.png photoAnimaker/Icon-76@2x.png103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76@2x.png photoAnimaker/Icon-76@2x.png73f7698d4578b841^65347e8d4578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-76@2x.png0000000000000000^622"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76@2x.png photoAnimaker/Icon-76@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-76@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-76@2x.png36"AB29EBA4-8F57-461F-A481-4D3014ECF0F2-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-40.png photoAnimaker/Icon-Small-40.png
+s410535309.492534
+e410535309.552386
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-40.png
+xphotoAnimaker/Icon-Small-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-40.png photoAnimaker/Icon-Small-40.png109"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-40.png photoAnimaker/Icon-Small-40.pngec347e8d4578b841^4d828f8d4578b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-40.png0000000000000000^634"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-40.png photoAnimaker/Icon-Small-40.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-40.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-40.png36"2D762AE1-7659-4D24-9994-08C05D7B5C31-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50.png photoAnimaker/Icon-Small-50.png
+s410535316.976118
+e410535317.032493
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50.png
+xphotoAnimaker/Icon-Small-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50.png photoAnimaker/Icon-Small-50.png109"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50.png photoAnimaker/Icon-Small-50.png2d0bfa944578b841^1e5208954578b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-50.png0000000000000000^634"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50.png photoAnimaker/Icon-Small-50.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-50.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50.png36"894FEFB0-E7D4-486F-87EA-A06D0B32D39E-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50@2x.png photoAnimaker/Icon-Small-50@2x.png
+s410535315.259830
+e410535315.323741
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50@2x.png
+xphotoAnimaker/Icon-Small-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50@2x.png photoAnimaker/Icon-Small-50@2x.png115"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50@2x.png photoAnimaker/Icon-Small-50@2x.png0aa242934578b841^d1e852934578b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-50@2x.png0000000000000000^646"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50@2x.png photoAnimaker/Icon-Small-50@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small-50@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small-50@2x.png36"DE80394D-95AD-40CA-8AD0-39CC7D8E2B09-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small.png photoAnimaker/Icon-Small.png
+s410535314.708004
+e410535314.764354
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small.png
+xphotoAnimaker/Icon-Small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small.png photoAnimaker/Icon-Small.png103"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small.png photoAnimaker/Icon-Small.png6c5eb5924578b841^59c1c3924578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small.png0000000000000000^622"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small.png photoAnimaker/Icon-Small.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small.png36"1AC11281-5594-4930-A0A0-D9CEB4FCD105-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small@2x.png photoAnimaker/Icon-Small@2x.png
+s410535309.552748
+e410535309.614172
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small@2x.png
+xphotoAnimaker/Icon-Small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small@2x.png photoAnimaker/Icon-Small@2x.png109"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small@2x.png photoAnimaker/Icon-Small@2x.pngc39f8d8d4578b841^083b9d8d4578b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small@2x.png0000000000000000^634"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small@2x.png photoAnimaker/Icon-Small@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-Small@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-Small@2x.png36"EC721F52-0CDB-404E-9DEA-075483174C2C-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-small-40@2x.png photoAnimaker/Icon-small-40@2x.png
+s410535313.112400
+e410535313.173973
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-small-40@2x.png
+xphotoAnimaker/Icon-small-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-small-40@2x.png photoAnimaker/Icon-small-40@2x.png115"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-small-40@2x.png photoAnimaker/Icon-small-40@2x.png4fe51c914578b841^698a2c914578b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-small-40@2x.png0000000000000000^646"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-small-40@2x.png photoAnimaker/Icon-small-40@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon-small-40@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon-small-40@2x.png36"21983F47-FAD7-408D-AA4B-4789295B819D-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon.png photoAnimaker/Icon.png
+s410535309.615016
+e410535309.676306
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon.png
+xphotoAnimaker/Icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon.png photoAnimaker/Icon.png91"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon.png photoAnimaker/Icon.pngde919d8d4578b841^dc29ad8d4578b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon.png0000000000000000^598"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon.png photoAnimaker/Icon.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon.png36"4A574087-2182-4E9B-9F52-441713E59BB2-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon@2x.png photoAnimaker/Icon@2x.png
+s410535316.217597
+e410535316.286238
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon@2x.png
+xphotoAnimaker/Icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon@2x.png photoAnimaker/Icon@2x.png97"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon@2x.png photoAnimaker/Icon@2x.png48e037944578b841^0a4a49944578b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon@2x.png0000000000000000^610"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/Icon@2x.png photoAnimaker/Icon@2x.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/Icon@2x.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Icon@2x.png36"8BFD94BE-DD69-4EED-A399-E7ED140AEAFE-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2008.png start_for_ipad_1536_2008.png
+s410535317.093899
+e410535318.643341
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2008.png
+xstart_for_ipad_1536_2008.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2008.png start_for_ipad_1536_2008.png117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2008.png start_for_ipad_1536_2008.png312718954578b841^81b3a4964578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_1536_2008.png0000000000000000^650"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2008.png start_for_ipad_1536_2008.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_1536_2008.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2008.png36"549B280A-D582-4DAE-9109-995A12A6F45D-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2048.png start_for_ipad_1536_2048.png
+s410535312.979687
+e410535314.519758
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2048.png
+xstart_for_ipad_1536_2048.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2048.png start_for_ipad_1536_2048.png117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2048.png start_for_ipad_1536_2048.png10eafa904578b841^c70f85924578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_1536_2048.png0000000000000000^650"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2048.png start_for_ipad_1536_2048.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_1536_2048.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_1536_2048.png36"8F73D870-A0C6-4E2A-9E98-6B2551DFA80E-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1496.png start_for_ipad_2048_1496.png
+s410535314.764661
+e410535316.216063
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1496.png
+xstart_for_ipad_2048_1496.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1496.png start_for_ipad_2048_1496.png117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1496.png start_for_ipad_2048_1496.png9f21c4924578b841^8f5037944578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_2048_1496.png0000000000000000^650"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1496.png start_for_ipad_2048_1496.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_2048_1496.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1496.png36"0E807EF4-43DC-4CCC-8340-7BB654A8C7E2-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1536.png start_for_ipad_2048_1536.png
+s410535313.175345
+e410535314.637453
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1536.png
+xstart_for_ipad_2048_1536.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1536.png start_for_ipad_2048_1536.png117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1536.png start_for_ipad_2048_1536.png43ff2c914578b841^c440a3924578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_2048_1536.png0000000000000000^650"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1536.png start_for_ipad_2048_1536.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/start_for_ipad_2048_1536.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_ipad_2048_1536.png36"97904C2E-412E-43CA-A2DE-79DE5CB277C4-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1096.png start_for_iphone_640_1096.png
+s410535311.942282
+e410535312.473908
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1096.png
+xstart_for_iphone_640_1096.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1096.png start_for_iphone_640_1096.png119"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1096.png start_for_iphone_640_1096.png11dff18f4578b841^e35279904578b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_1096.png0000000000000000^654"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1096.png start_for_iphone_640_1096.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_1096.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1096.png36"93CE530F-3D63-4AA9-9179-7B7E38F2E4DF-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1136.png start_for_iphone_640_1136.png
+s410535312.474319
+e410535312.979250
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1136.png
+xstart_for_iphone_640_1136.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1136.png start_for_iphone_640_1136.png119"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1136.png start_for_iphone_640_1136.png338a79904578b841^eab0fa904578b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_1136.png0000000000000000^654"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1136.png start_for_iphone_640_1136.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_1136.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_1136.png36"7C5DBE2D-79A0-4040-87AF-854020BB6E77-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_920.png start_for_iphone_640_920.png
+s410535311.403217
+e410535311.941902
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_920.png
+xstart_for_iphone_640_920.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_920.png start_for_iphone_640_920.png117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_920.png start_for_iphone_640_920.pngd657678f4578b841^de3cf18f4578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_920.png0000000000000000^650"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_920.png start_for_iphone_640_920.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_920.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_920.png36"1C9B4F82-6FBB-4E29-BCA2-478C68F4DC51-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyPNGFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_960.png start_for_iphone_640_960.png
+s410535316.287290
+e410535316.700712
+r1
+xCopyPNGFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_960.png
+xstart_for_iphone_640_960.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_960.png start_for_iphone_640_960.png117"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_960.png start_for_iphone_640_960.pnga6b44a944578b841^1aa5b3944578b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_960.png0000000000000000^650"CopyPNGFile Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_960.png start_for_iphone_640_960.png    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/taiki_o/pgr/iphone/photoAnimaker/start_for_iphone_640_960.png /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/start_for_iphone_640_960.png36"1B1DF8D2-1192-47AA-9C4F-3AC930FD808A-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCopyStringsFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/en.lproj/InfoPlist.strings photoAnimaker/en.lproj/InfoPlist.strings
+s410535311.575040
+e410535311.578708
+r1
+xCopyStringsFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/en.lproj/InfoPlist.strings
+xphotoAnimaker/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy photoAnimaker/en.lproj/InfoPlist.strings131"CopyStringsFile Build/Products/Debug-iphoneos/photoAnimaker.app/en.lproj/InfoPlist.strings photoAnimaker/en.lproj/InfoPlist.strings6552938f4578b841^9469948f4578b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/en.lproj/InfoPlist.strings0000000000000000^598"CopyStringsFile Build/Products/Debug-iphoneos/photoAnimaker.app/en.lproj/InfoPlist.strings photoAnimaker/en.lproj/InfoPlist.strings    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/en.lproj -- photoAnimaker/en.lproj/InfoPlist.strings36"DE5A5DE3-B17A-4CB4-BC35-5854086FD11A-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist
+s410535295.934975
+e410535295.939737
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist200"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist3678ef7f4578b841^63b5f17f4578b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist00341c8edfffdf42^758"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app36"F597DA30-CE8A-4FDF-958E-52F9B8459C04-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CGenerateDSYMFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker
+s410535308.394478
+e410535308.483053
+r1
+xGenerateDSYMFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generate /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM131"GenerateDSYMFile Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimakere717658c4578b841^6ac17b8c4578b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM00341c8edfffdf42^665"GenerateDSYMFile Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app.dSYM36"873490B4-5129-44FC-8FE7-514D4C0E32CC-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CLd /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker normal armv7s
+s410535307.903522
+e410535308.392955
+r1
+xLd
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker
+xnormal
+xarmv7s
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/photoAnimaker.LinkFileList
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/main.o
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AppDelegate.o
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootView.o
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/RootViewController.o
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/ZoomImageView.o
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/FilterBase.o
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/LineFilter.o
+d/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/AnimeFilter.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/taiki_o/pgr/ios/opencv2.framework/opencv2
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker78"Ld Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker normal armv7s2670e78b4578b841^7c99648c4578b841^---0#0#1#--1441"Ld Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker normal armv7s    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios -filelist /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/photoAnimaker.LinkFileList -dead_strip -stdlib=libc++ -fobjc-link-runtime -miphoneos-version-min=6.1 -framework AVFoundation -framework UIKit -framework Foundation -framework CoreGraphics -framework opencv2 -Xlinker -dependency_info -Xlinker /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/Objects-normal/armv7s/photoAnimaker_dependency_info.dat -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/photoAnimaker36"6B2139D4-BD10-4A4D-B5EF-AD33522C3440-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CProcessInfoPlistFile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Info.plist /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Info.plist
+s410535295.926375
+e410535295.934094
+r1
+xProcessInfoPlistFile
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Info.plist
+x/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Process /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Info.plist118"ProcessInfoPlistFile Build/Products/Debug-iphoneos/photoAnimaker.app/Info.plist photoAnimaker/photoAnimaker-Info.plist8d43ed7f4578b841^50aaf17f4578b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Info.plist0000000000000000^854"ProcessInfoPlistFile Build/Products/Debug-iphoneos/photoAnimaker.app/Info.plist photoAnimaker/photoAnimaker-Info.plist    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Info.plist -genpkginfo /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/ResourceRules.plist -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/Info.plist36"0D3C54E6-203E-457B-B675-DF499F135444-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CProcessPCH /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410535295.944803
+e410535298.096570
+r1
+xProcessPCH
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.pch
+xphotoAnimaker/photoAnimaker-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile photoAnimaker/photoAnimaker-Prefix.pch237"ProcessPCH Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc40bf27f4578b841^66dc18824578b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Prefix.pch0000000000000000^3439"ProcessPCH Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.dia -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.d -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Prefix.pch -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-ewaaafwmlzlupdfqlkhdzqjxgrwr/photoAnimaker-Prefix.pch.pch36"39C667B8-006F-45AB-87F7-93470C8ED53F-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CProcessPCH /Users/taiki_o/pgr/iphone/photoAnimaker/DerivedData/photoAnimaker/Index/PrecompiledHeaders/photoAnimaker-Prefix-gznncvoixpzvzicumuwekjkklgju_ast/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410535295.943335
+e410535298.146289
+r1
+xProcessPCH++
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.pch
+xphotoAnimaker/photoAnimaker-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile photoAnimaker/photoAnimaker-Prefix.pch241"ProcessPCH++ Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler4baff17f4578b841^f77425824578b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Prefix.pch0000000000000000^3589"ProcessPCH++ Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-generated-files.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-own-target-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-all-target-headers.hmap -iquote /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker-project-headers.hmap -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources/armv7s -I/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/DerivedSources -F/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos -F/Users/taiki_o/pgr/iphone/photoAnimaker/../../ios --serialize-diagnostics /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.dia -MMD -MT dependencies -MF /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.d -c /Users/taiki_o/pgr/iphone/photoAnimaker/photoAnimaker/photoAnimaker-Prefix.pch -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/PrecompiledHeaders/photoAnimaker-Prefix-gbespiaxbfnyokbxmjchaltsojtb/photoAnimaker-Prefix.pch.pch36"8BF2546B-AF16-46B5-9D25-7319ADBFE733-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CProcessPCH++ /Users/taiki_o/pgr/iphone/photoAnimaker/DerivedData/photoAnimaker/Index/PrecompiledHeaders/photoAnimaker-Prefix-fixnqdjtjdphzzbwburfnxgawfcu_ast/photoAnimaker-Prefix.pch.pch photoAnimaker/photoAnimaker-Prefix.pch normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent
+s410535319.280260
+e410535319.286953
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection239"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent239"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent83de47974578b841^607849974578b841^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent00341c8edfffdf42^796"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Intermediates/photoAnimaker.build/Debug-iphoneos/photoAnimaker.build/photoAnimaker.xcent36"49E89579-00DF-4303-AC9D-50440EE877E5-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CProcessProductPackaging /Users/taiki_o/Library/MobileDevice/Provisioning\ Profiles/60ECF80D-ACB7-42C8-96C0-7340B4BB040E.mobileprovision /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision
+s410535319.268301
+e410535319.275107
+r1
+xProcessProductPackaging
+x/Users/taiki_o/Library/MobileDevice/Provisioning Profiles/60ECF80D-ACB7-42C8-96C0-7340B4BB040E.mobileprovision
+x/Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection208"ProcessProductPackaging /Users/taiki_o/Library/MobileDevice/Provisioning\ Profiles/60ECF80D-ACB7-42C8-96C0-7340B4BB040E.mobileprovision Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision208"ProcessProductPackaging /Users/taiki_o/Library/MobileDevice/Provisioning\ Profiles/60ECF80D-ACB7-42C8-96C0-7340B4BB040E.mobileprovision Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision42d144974578b841^097046974578b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision00341c8edfffdf42^708"ProcessProductPackaging /Users/taiki_o/Library/MobileDevice/Provisioning\ Profiles/60ECF80D-ACB7-42C8-96C0-7340B4BB040E.mobileprovision Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision    cd /Users/taiki_o/pgr/iphone/photoAnimaker    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/taiki_o/Library/MobileDevice/Provisioning\ Profiles/60ECF80D-ACB7-42C8-96C0-7340B4BB040E.mobileprovision -o /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app/embedded.mobileprovision36"3E80C4F5-2D53-47EF-B185-5C487F6C2E97-
+bF99DB01F-18A4-4AE7-83A9-36B0F7A11DB2
+
+CTouch /Users/taiki_o/pgr/iphone/photoAnimaker/Build/Products/Debug-iphoneos/photoAnimaker.app
+r0
+
